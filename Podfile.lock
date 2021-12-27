@@ -1,0 +1,22 @@
+PODS:
+  - NVActivityIndicatorView/Base (5.1.1)
+  - NVActivityIndicatorView/Extended (5.1.1):
+    - NVActivityIndicatorView/Base
+  - SwiftyTesseract (3.1.3)
+
+DEPENDENCIES:
+  - NVActivityIndicatorView/Extended
+  - SwiftyTesseract
+
+SPEC REPOS:
+  trunk:
+    - NVActivityIndicatorView
+    - SwiftyTesseract
+
+SPEC CHECKSUMS:
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  SwiftyTesseract: 1f3d96668ae92dc2208d9842c8a59bea9fad2cbb
+
+PODFILE CHECKSUM: ef096886b2c1255794836689baef4a810a306e35
+
+COCOAPODS: 1.11.2
